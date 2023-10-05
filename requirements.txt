@@ -53,3 +53,4 @@ s3transfer
 django-user-agents
 gunicorn
 django-jet
+channels
