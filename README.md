@@ -17,7 +17,10 @@
 #### 4) Установка зависимостей
     pip install -r requirements.txt
 
-#### 5) Запуск сервера 
+#### 5) Создание superuser'a 
+    python manage.py createsuperuser
+
+#### 6) Запуск сервера 
     python manage.py runserver
 
 
