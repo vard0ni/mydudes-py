@@ -54,3 +54,4 @@ django-user-agents
 gunicorn
 django-jet
 channels
+python-dotenv
